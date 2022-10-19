@@ -1,0 +1,14 @@
+.hero__content_button{
+  width: 200px;
+  height: 60px;
+  font-size: 18px;
+  line-height: 22px;
+  color: #fff;
+  background-color: #F7941E;
+  border: none;
+  border-radius: 5px;
+}
+
+.hero__content_button:hover{
+  cursor: pointer;
+}

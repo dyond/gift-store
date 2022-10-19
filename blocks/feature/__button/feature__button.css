@@ -1,0 +1,15 @@
+.feature__button{
+  width: 200px;
+  height: 60px;
+  font-size: 18px;
+  line-height: 24px;
+  background-color: transparent;
+  color: #F7941E;
+  border: 1px solid #F7941E;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+.feature__button:hover{
+  cursor: pointer;
+}

@@ -1,6 +1,5 @@
 .header__menu_links{
   display: flex;
   justify-content: space-between;
-  
   list-style: none;
 }

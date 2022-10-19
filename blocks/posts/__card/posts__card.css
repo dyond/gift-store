@@ -1,0 +1,6 @@
+.posts__card{
+  transition: box-shadow .75s;
+}
+.posts__card:hover{
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05);
+}

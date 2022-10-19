@@ -1,0 +1,7 @@
+.posts__cards{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 126px;
+  margin-right: 135px;
+  margin-bottom: 137px;
+}

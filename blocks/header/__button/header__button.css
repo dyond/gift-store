@@ -8,3 +8,7 @@
   border: 1px solid #F7941E;
   border-radius: 5px;
 }
+
+.header__button:hover{
+  cursor: pointer;
+}

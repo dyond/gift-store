@@ -15,3 +15,73 @@
 @import url(/blocks/header/__menu/_link/header__menu_link.css);
 @import url(/blocks/header/__buttons/header__buttons.css);
 @import url(/blocks/header/__button/header__button.css);
+
+/* HERO */
+@import url(/blocks/hero/hero.css);
+@import url(/blocks/hero/__content/hero__content.css);
+@import url(/blocks/hero/__content_right/hero__content_right.css);
+@import url(/blocks//hero/__content_title/hero__content_title.css);
+@import url(/blocks/hero/__content_text/hero__content_text.css);
+@import url(/blocks/hero/__content_button/hero__content_button.css);
+@import url(/blocks/hero/__image/hero__image.css);
+
+/* FEATURE */
+@import url(/blocks/feature/feature.css);
+@import url(/blocks/feature/__content/feature__content.css);
+@import url(/blocks/feature/__content_left/feature__content_left.css);
+@import url(/blocks/feature/__content_title/feature__content_title.css);
+@import url(/blocks/feature/__content_text/feature__content_text.css);
+@import url(/blocks/feature/__button/feature__button.css);
+@import url(/blocks/feature/__image/feature__image.css);
+
+/* POSTS */
+@import url(/blocks/posts/posts.css);
+@import url(/blocks/posts/__title/posts__title.css);
+@import url(/blocks/posts/__text/posts__text.css);
+@import url(/blocks/posts/__cards/posts__cards.css);
+@import url(/blocks/posts/__card/posts__card.css);
+@import url(/blocks/posts/__image/posts__image.css);
+@import url(/blocks/posts/__card_title/posts__card_title.css);
+@import url(/blocks/posts/__card_button/posts__card_button.css);
+
+/* CTA */
+@import url(/blocks/cta/cta.css);
+@import url(/blocks/cta/__content/cta__content.css);
+@import url(/blocks/cta/__group_title/cta__group_title.css);
+@import url(/blocks/cta/__group_title_1/cta__group_title_1.css);
+@import url(/blocks/cta/__group_title_2/cta__group_title_2.css);
+@import url(/blocks/cta/__group_button/cta__group_button.css);
+@import url(/blocks/cta/__group_button_1/cta__group_button_1.css);
+@import url(/blocks/cta/__group_button_2/cta__group_button_2.css);
+
+/* BLOG */
+@import url(/blocks/blog/blog.css);
+@import url(/blocks/blog/__title/blog__title.css);
+@import url(/blocks/blog/__text/blog__text.css);
+@import url(/blocks/blog/__main_card/blog__main_card.css);
+@import url(/blocks/blog/__main_card_image/blog__main_card_image.css);
+@import url(/blocks/blog/__main_card_content/blog__main_card_content.css);
+@import url(/blocks/blog/__main_card_text/blog__main_card_text.css);
+@import url(/blocks/blog/__main_card_title/blog__main_card_title.css);
+@import url(/blocks/blog/__main_card_button/blog__main_card_button.css);
+@import url(/blocks/blog/__cards/blog__cards.css);
+@import url(/blocks/blog/__card/blog__card.css);
+@import url(/blocks/blog/__card_title/blog__card_title.css);
+@import url(/blocks/blog/__card_text/blog__card_text.css);
+@import url(/blocks/blog/__card_button/blog__card_button.css);
+
+/* SOLID */
+@import url(/blocks/solid/solid.css);
+
+/* LOGO */
+@import url(/blocks/logo/_place/logo_place_footer.css);
+
+/* FOOTER */
+@import url(/blocks/footer/footer.css);
+@import url(/blocks/footer/__links/footer__links.css);
+@import url(/blocks/footer/__link/footer__link.css)
+;
+@import url(/blocks/footer/__socials/footer__socials.css);
+@import url(/blocks/footer/__social_link/footer__social_link.css);
+@import url(/blocks/footer/__social_img/footer__social_img.css);
+@import url(/blocks/footer/__copyright/footer__copyright.css);
